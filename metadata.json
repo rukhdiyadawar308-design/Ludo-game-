@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Ludo Game - Classic 4-Player \u0026 Android Studio Project",
+  "description": "Play classic 4-player Ludo game with smart AI bots, realistic 3D dice, audio effects, and download complete Kotlin + XML Android Studio project source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
